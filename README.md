@@ -1,5 +1,7 @@
 <!-- Banner Image -->
 
+https://github.com/YuJialu-lab/Foodie-App/tree/main/snackpub
+
 <p align="center">
   <img src="./logo.svg" width="100px" />
   <h1 align="center">
